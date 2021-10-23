@@ -1,6 +1,6 @@
 # portfolio
 
-A new Flutter project.
+It's a portfolio app.
 
 ## Getting Started
 
